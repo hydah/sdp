@@ -1,4 +1,4 @@
-module github.com/notedit/sdp
+module github.com/hydah/sdp
 
 require github.com/Jeffail/gabs v1.1.1
 
